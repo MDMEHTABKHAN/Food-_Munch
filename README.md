@@ -1,2 +1,2 @@
-# Food-_Munch
+# Food_Munch
  A Responsive Restaurant Website
